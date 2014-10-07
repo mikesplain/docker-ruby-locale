@@ -7,4 +7,4 @@ ENV LANGUAGE en_US:en
 ENV LC_ALL en_US.UTF-8
 
 RUN gem update --system
-RUN gem install rake berkshelf rubocop rspec test-kitchen kitchen-openstack chefspec foodcritic
+RUN gem install berkshelf rubocop rspec test-kitchen kitchen-openstack chefspec foodcritic
